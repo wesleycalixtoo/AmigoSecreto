@@ -1,6 +1,8 @@
 🎁 Amigo Secreto
 
-Uma aplicação web simples e interativa para organizar sorteios de amigo secreto. Adicione nomes de amigos e sorteie aleatoriamente quem será o amigo secreto!
+Uma aplicação web simples e interativa para organizar sorteios de amigo secreto. 
+Adicione nomes de amigos e sorteie aleatoriamente quem será o amigo secreto!
+
 📋 Funcionalidades
 
 Adicionar Amigos: Digite o nome e adicione à lista de participantes
